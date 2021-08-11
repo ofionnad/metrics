@@ -26,3 +26,5 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           config_timezone: Europe/London # Set timezone
+          
+          plugin_languages: yes
