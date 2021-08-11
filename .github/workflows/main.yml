@@ -28,3 +28,4 @@ jobs:
           config_timezone: Europe/London # Set timezone
           
           plugin_languages: yes
+          plugin_languages_ignored: HTML, Jupyter Notebook, Tex
